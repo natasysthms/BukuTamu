@@ -1,8 +1,8 @@
 <?php
 // Konfigurasi database
-$db_host = '127.0.0.1:3306';
-$db_user = 'root';
-$db_pass = 'N28042006t';
+$db_host = 'localhost';
+$db_user = 'your_db_username'; // Change this to your MySQL username
+$db_pass = 'your_db_password'; // Change this to your MySQL password
 $db_name = 'buku_tamu';
 
 // Membuat koneksi
