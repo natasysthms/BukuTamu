@@ -26,8 +26,7 @@ Sistem buku tamu digital dengan penyimpanan MySQL dan login AJAX.
 
 1. Clone repositori ini
 
-   git clone https://github.com/natasysthm/BukuTamu.git
-
+   git clone https://github.com/natasysthms/BukuTamu.git
 
 2. Buat database MySQL
 
